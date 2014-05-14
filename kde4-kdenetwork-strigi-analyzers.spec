@@ -4,12 +4,12 @@
 
 Summary:	K Desktop Environment - Strigi analyzers for various network types
 Name:		kde4-kdenetwork-strigi-analyzers
-Version:	4.13.0
+Version:	4.13.1
 Release:	1
 License:	GPL
 Group:		X11/Applications/Graphics
 Source0:	ftp://ftp.kde.org/pub/kde/%{_state}/%{version}/src/%{orgname}-%{version}.tar.xz
-# Source0-md5:	c6f8f44fb4efa2ae0fcda64bcf2c73db
+# Source0-md5:	3ce17d8bfab97eb42d8b7a36dfdf0119
 URL:		http://www.kde.org/
 BuildRequires:	boost-devel
 BuildRequires:	kde4-kdelibs-devel >= %{version}
